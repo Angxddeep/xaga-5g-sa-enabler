@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Build artifacts
+tools/build/
+*.class
+
+# Temporary files
+*.tmp
+*.bak
